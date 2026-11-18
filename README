@@ -1,0 +1,14 @@
+O programa foi corrido no Windows 10 e Ubuntu.
+Java version: 15.0.1
+
+
+Para compilar: "javac Buscas.java -Xlint"
+Para verificar o exemplo dado use o seguinte comando: "java Buscas < input1-facil"
+
+One liner: "javac Buscas.java -Xlint && java Buscas < input1-facil"
+
+
+
+Outros intervenvientes do projeto:
+Github User: cemanuelsilva (https://github.com/cemanuelsilva); DiogoAluai(https://github.com/DiogoAluai);
+             
